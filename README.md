@@ -15,3 +15,8 @@
 [aqui](http://www.ufjf.br/eduardo_barrere/files/2013/03/APA_2013_aula4.pdf)
 * Algoritmos de ordenação, material:
 [aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2.html)
+
+## Estrutura de dados
+
+* Material com um breve e aprofundada introdução: [aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html)
+* Árvores: [aqui](http://webserver2.tecgraf.puc-rio.br/eda/EDA_01_ArvBinBusca.pdf), [aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/st-bst.html)
