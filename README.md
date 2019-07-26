@@ -18,5 +18,15 @@
 
 ## Estrutura de dados
 
-* Material com um breve e aprofundada introdução: [aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html)
-* Árvores: [aqui](http://webserver2.tecgraf.puc-rio.br/eda/EDA_01_ArvBinBusca.pdf), [aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/st-bst.html), [aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/sbbs.pdf), [aqui](https://www2.unifap.br/furtado/files/2016/11/Aula5.pdf)
+* Material com um breve e aprofundada introdução: 
+[aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html)
+* Árvores: 
+[aqui](http://webserver2.tecgraf.puc-rio.br/eda/EDA_01_ArvBinBusca.pdf), 
+[aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/st-bst.html), 
+[aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/sbbs.pdf), 
+[aqui](https://www2.unifap.br/furtado/files/2016/11/Aula5.pdf)
+* Hashing: 
+[aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/hashing.pdf), 
+[aqui](http://webserver2.tecgraf.puc-rio.br/eda/EDA_07_Hash.pdf), 
+[aqui](http://www.ufjf.br/jairo_souza/files/2012/11/4-Hashing-Introdu%C3%A7%C3%A3o.pdf), 
+[aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/hashing.pdf)
