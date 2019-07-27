@@ -1,5 +1,7 @@
 # Preparação para a prova POSCOMP
 
+Este repositório tem como objetivo agrupar links direcionados a conteúdos exigidos na prova [POSCOMP](https://www.sbc.org.br/home/educacao/poscomp). Outro repositório também bastante interessante e mais abrangente sobre a área da ciência da computação pode ser encontrado [aqui](https://github.com/emanoelvianna/lista-interessante).
+
 ## Algoritmos
 
 * Classe de problemas, material com um breve e aprofundada introdução: 
