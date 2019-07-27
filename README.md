@@ -30,3 +30,8 @@
 [aqui](http://webserver2.tecgraf.puc-rio.br/eda/EDA_07_Hash.pdf), 
 [aqui](http://www.ufjf.br/jairo_souza/files/2012/11/4-Hashing-Introdu%C3%A7%C3%A3o.pdf), 
 [aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/hashing.pdf)
+
+
+## Bibliografia
+
+Fundamentos da Ciência da Computação, 2ª edição. Behrouz Forouzan e Firouz Mosharraf. Cengage Learning. 2011.
