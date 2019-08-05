@@ -2,6 +2,12 @@
 
 Este repositório tem como objetivo agrupar links direcionados a conteúdos exigidos na prova [POSCOMP](https://www.sbc.org.br/home/educacao/poscomp). Outro repositório também bastante interessante e mais abrangente sobre a área da ciência da computação pode ser encontrado [aqui](https://github.com/emanoelvianna/lista-interessante).
 
+## Fundamentos
+* Paradigmas de Programação>
+[aqui](https://fit.faccat.br/~guto/artigos/Artigo_Paradigmas_de_Programacao.pdf)
+[aqui](http://maradentro.com.br/wp-content/uploads/2014/09/Paradigmas_apostila.pdf)
+[aqui](http://www.decom.ufop.br/romildo/2016-2/bcc222/slides/01-introducao.pdf)
+
 ## Algoritmos
 
 * Classe de problemas, material com um breve e aprofundada introdução: 
@@ -17,6 +23,9 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://www.ufjf.br/eduardo_barrere/files/2013/03/APA_2013_aula4.pdf)
 * Algoritmos de ordenação, material:
 [aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2.html)
+* Algoritmos de Compressão:
+[aqui](http://multimedia.ufp.pt/)
+[aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/compress.html)
 
 ## Estrutura de dados
 
