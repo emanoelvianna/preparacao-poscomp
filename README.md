@@ -3,7 +3,7 @@
 Este repositório tem como objetivo agrupar links direcionados a conteúdos exigidos na prova [POSCOMP](https://www.sbc.org.br/home/educacao/poscomp). Outro repositório também bastante interessante e mais abrangente sobre a área da ciência da computação pode ser encontrado [aqui](https://github.com/emanoelvianna/lista-interessante).
 
 ## Fundamentos
-* Paradigmas de Programação>
+* Paradigmas de Programação:
 [aqui](https://fit.faccat.br/~guto/artigos/Artigo_Paradigmas_de_Programacao.pdf)
 [aqui](http://maradentro.com.br/wp-content/uploads/2014/09/Paradigmas_apostila.pdf)
 [aqui](http://www.decom.ufop.br/romildo/2016-2/bcc222/slides/01-introducao.pdf)
