@@ -7,6 +7,9 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](https://fit.faccat.br/~guto/artigos/Artigo_Paradigmas_de_Programacao.pdf)
 [aqui](http://maradentro.com.br/wp-content/uploads/2014/09/Paradigmas_apostila.pdf)
 [aqui](http://www.decom.ufop.br/romildo/2016-2/bcc222/slides/01-introducao.pdf)
+* Diagrama de classe:
+[aqui](https://www.ibm.com/developerworks/br/rational/library/content/RationalEdge/sep04/bell/index.html)
+[aqui](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/uml-diagrama-classes-relacionamentos_v01.pdf)
 
 ## Algoritmos
 
@@ -41,7 +44,13 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://webserver2.tecgraf.puc-rio.br/eda/EDA_07_Hash.pdf), 
 [aqui](http://www.ufjf.br/jairo_souza/files/2012/11/4-Hashing-Introdu%C3%A7%C3%A3o.pdf), 
 [aqui](https://homepages.dcc.ufmg.br/~cunha/teaching/20121/aeds2/hashing.pdf)
-
+* Grafos:
+[aqui](https://www.ime.usp.br/~pf/teoriadosgrafos/)
+[aqui](https://www.ime.usp.br/~pf/algoritmos_para_grafos/)
+[aqui](https://www.ime.usp.br/~pf/algoritmos_em_grafos/)
+[aqui](http://www.decom.ufop.br/menotti/paa101/)
+[aqui](http://wiki.icmc.usp.br/images/f/fa/SCC0603022016GrafosConceitosBasicos.pdf)
+[aqui](https://www.pucsp.br/~jarakaki/grafos/Aula4.pdf)
 
 ## Bibliografia
 
