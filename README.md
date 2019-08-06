@@ -51,6 +51,7 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://www.decom.ufop.br/menotti/paa101/)
 [aqui](http://wiki.icmc.usp.br/images/f/fa/SCC0603022016GrafosConceitosBasicos.pdf)
 [aqui](https://www.pucsp.br/~jarakaki/grafos/Aula4.pdf)
+[aqui](http://www.decom.ufop.br/marco/ensino/bcc204/)
 
 ## Bibliografia
 
