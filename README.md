@@ -53,6 +53,13 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](https://www.pucsp.br/~jarakaki/grafos/Aula4.pdf)
 [aqui](http://www.decom.ufop.br/marco/ensino/bcc204/)
 
+## Sistemas Operacionais 
+
+* Sistemas de arquivos: 
+[aqui](http://www.facom.ufu.br/~abdala/so/20_GSI018_6p.pdf)
+[aqui](http://www.inf.ufrgs.br/~asc/sisop/pdf/aula13.pdf)
+[aqui](http://www.cesarkallas.net/arquivos/apostilas/programacao/c_c++/c/PL06LinuxFS.PDF)
+
 ## Bibliografia
 
 Fundamentos da Ciência da Computação, 2ª edição. Behrouz Forouzan e Firouz Mosharraf. Cengage Learning. 2011.
