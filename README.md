@@ -59,6 +59,8 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://www.facom.ufu.br/~abdala/so/20_GSI018_6p.pdf)
 [aqui](http://www.inf.ufrgs.br/~asc/sisop/pdf/aula13.pdf)
 [aqui](http://www.cesarkallas.net/arquivos/apostilas/programacao/c_c++/c/PL06LinuxFS.PDF)
+[aqui](http://www.ic.unicamp.br/~islene/2s2016-mc504/vfs.pdf)
+[aqui](http://www.ic.unicamp.br/~islene/2s2014-mc514/vfs/bruno-wilson.pdf)
 
 ## Bibliografia
 
