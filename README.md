@@ -62,6 +62,11 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://www.ic.unicamp.br/~islene/2s2016-mc504/vfs.pdf)
 [aqui](http://www.ic.unicamp.br/~islene/2s2014-mc514/vfs/bruno-wilson.pdf)
 
+## Banco de Dados
+
+* Sistemas de registros:
+[aqui](http://www.din.uem.br/~yandre/AEDEP/organizacao-direta.pdf)
+
 ## Bibliografia
 
 Fundamentos da Ciência da Computação, 2ª edição. Behrouz Forouzan e Firouz Mosharraf. Cengage Learning. 2011.
