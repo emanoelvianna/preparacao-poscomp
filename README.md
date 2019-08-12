@@ -61,6 +61,8 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://www.cesarkallas.net/arquivos/apostilas/programacao/c_c++/c/PL06LinuxFS.PDF)
 [aqui](http://www.ic.unicamp.br/~islene/2s2016-mc504/vfs.pdf)
 [aqui](http://www.ic.unicamp.br/~islene/2s2014-mc514/vfs/bruno-wilson.pdf)
+[aqui](https://www.inf.pucrs.br/~emoreno/undergraduate/CC/sisop/class_files/Aula13.pdf)
+[aqui](http://wiki.icmc.usp.br/images/b/ba/Alg2_10.SistemasdeArquivos.pdf)
 
 ## Banco de Dados
 
