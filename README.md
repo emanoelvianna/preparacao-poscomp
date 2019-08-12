@@ -63,6 +63,8 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://www.ic.unicamp.br/~islene/2s2014-mc514/vfs/bruno-wilson.pdf)
 [aqui](https://www.inf.pucrs.br/~emoreno/undergraduate/CC/sisop/class_files/Aula13.pdf)
 [aqui](http://wiki.icmc.usp.br/images/b/ba/Alg2_10.SistemasdeArquivos.pdf)
+[aqui](https://docente.ifrn.edu.br/tadeuferreira/disciplinas/2015.2/sistemas-operacionais/Aula20.pdf)
+[aqui](http://www.inf.ufrgs.br/~asc/sisop/pdf/aula14.pdf)
 
 ## Banco de Dados
 
