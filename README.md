@@ -83,6 +83,7 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](https://edisciplinas.usp.br/pluginfile.php/2119958/mod_resource/content/1/er.pdf)
 [aqui](https://www.dei.isep.ipp.pt/~goreti/ficha4.pdf)
 [aqui](http://www.unimep.br/~anbelgamo/LFA/M%e1quina%20Turing.pdf)
+[aqui](http://wiki.icmc.usp.br/images/a/a3/SCC205Cap4.pdf)
 
 ## Bibliografia
 
