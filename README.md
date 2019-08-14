@@ -71,6 +71,19 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 * Sistemas de registros:
 [aqui](http://www.din.uem.br/~yandre/AEDEP/organizacao-direta.pdf)
 
+## Teoria da Computação 
+* Linguagens Formais:
+[aqui](http://www.unimep.br/~anbelgamo/LFA/Conceitos%20B%e1sicos.pdf)
+[aqui](http://www.unimep.br/~anbelgamo/LFA/Linguagens%20Regulares.pdf)
+[aqui](http://www.unimep.br/~anbelgamo/LFA/LinguagemLivreContexto.pdf)
+[aqui](http://www.unimep.br/~anbelgamo/LFA/AutomatoPilha.pdf)
+[aqui](https://edisciplinas.usp.br/pluginfile.php/1817119/mod_resource/content/1/formal_AFD.pdf)
+[aqui](https://edisciplinas.usp.br/pluginfile.php/1703065/mod_resource/content/1/ling_gramaticas.pdf)
+[aqui](https://edisciplinas.usp.br/pluginfile.php/1703577/mod_resource/content/1/ling_regulares.pdf)
+[aqui](https://edisciplinas.usp.br/pluginfile.php/2119958/mod_resource/content/1/er.pdf)
+[aqui](https://www.dei.isep.ipp.pt/~goreti/ficha4.pdf)
+[aqui](http://www.unimep.br/~anbelgamo/LFA/M%e1quina%20Turing.pdf)
+
 ## Bibliografia
 
 Fundamentos da Ciência da Computação, 2ª edição. Behrouz Forouzan e Firouz Mosharraf. Cengage Learning. 2011.
