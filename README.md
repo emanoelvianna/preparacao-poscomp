@@ -3,15 +3,17 @@
 Este repositório tem como objetivo agrupar links direcionados a conteúdos exigidos na prova [POSCOMP](https://www.sbc.org.br/home/educacao/poscomp). Outro repositório também bastante interessante e mais abrangente sobre a área da ciência da computação pode ser encontrado [aqui](https://github.com/emanoelvianna/lista-interessante).
 
 ## Fundamentos
-* Paradigmas de Programação:
+
+### Paradigmas de Programação:
 [aqui](https://fit.faccat.br/~guto/artigos/Artigo_Paradigmas_de_Programacao.pdf)
 [aqui](http://maradentro.com.br/wp-content/uploads/2014/09/Paradigmas_apostila.pdf)
 [aqui](http://www.decom.ufop.br/romildo/2016-2/bcc222/slides/01-introducao.pdf)
+### Engenharia de software
 * Diagrama de classe:
 [aqui](https://www.ibm.com/developerworks/br/rational/library/content/RationalEdge/sep04/bell/index.html)
 [aqui](https://homepages.dcc.ufmg.br/~figueiredo/disciplinas/aulas/uml-diagrama-classes-relacionamentos_v01.pdf)
 
-## Algoritmos
+### Algoritmos
 
 * Classe de problemas, material com um breve e aprofundada introdução: 
 [aqui](https://www.ime.usp.br/~pf/analise_de_algoritmos/), 
@@ -30,7 +32,7 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://multimedia.ufp.pt/)
 [aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/compress.html)
 
-## Estrutura de dados
+### Estrutura de dados
 
 * Material com um breve e aprofundada introdução: 
 [aqui](https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/index.html)
@@ -53,7 +55,7 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](https://www.pucsp.br/~jarakaki/grafos/Aula4.pdf)
 [aqui](http://www.decom.ufop.br/marco/ensino/bcc204/)
 
-## Sistemas Operacionais 
+### Sistemas Operacionais 
 
 * Sistemas de arquivos: 
 [aqui](http://www.facom.ufu.br/~abdala/so/20_GSI018_6p.pdf)
@@ -69,18 +71,18 @@ Gerência de Dispositivos:
 [aqui](https://www.ime.usp.br/~adao/AGD.pdf)
 [aqui](https://www.inf.pucrs.br/~emoreno/undergraduate/CC/sisop/class_files/Aula03)
 
-## Organização e Arquitetura de Computadores
+### Organização e Arquitetura de Computadores
 
 * Máquinas de estado:
 [aqui](http://www.facom.ufu.br/~abdala/sd/MEFs.pdf)
 [aqui](http://www.ic.unicamp.br/~cortes/mc602/slides/obsoleto/cap08_v3.pdf)
 
-## Banco de Dados
+### Banco de Dados
 
 * Sistemas de registros:
 [aqui](http://www.din.uem.br/~yandre/AEDEP/organizacao-direta.pdf)
 
-## Teoria da Computação 
+### Teoria da Computação 
 * Linguagens Formais:
 [aqui](http://www.unimep.br/~anbelgamo/LFA/Conceitos%20B%e1sicos.pdf)
 [aqui](http://www.unimep.br/~anbelgamo/LFA/Linguagens%20Regulares.pdf)
@@ -93,6 +95,14 @@ Gerência de Dispositivos:
 [aqui](https://www.dei.isep.ipp.pt/~goreti/ficha4.pdf)
 [aqui](http://www.unimep.br/~anbelgamo/LFA/M%e1quina%20Turing.pdf)
 [aqui](http://wiki.icmc.usp.br/images/a/a3/SCC205Cap4.pdf)
+
+## Tecnologia da computação
+* SQL:
+[aqui](http://aserlorenzo.com/manSQL/Oracle/toc.htm)
+[aqui](http://www.inf.ufsc.br/~mario.dantas/cap4texto.pdf)
+[aqui](https://www.ime.usp.br/~andrers/aulas/bd2005-1/aula13.html)
+[aqui](https://homepages.dcc.ufmg.br/~clodoveu/files/CEGEO/XX.%20SQL.pdf)
+[aqui](http://paginas.unisul.br/edson.thizon/PDF/aula2_algebra_calculo.pdf)
 
 ## Bibliografia
 
