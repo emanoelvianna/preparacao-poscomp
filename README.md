@@ -104,6 +104,9 @@ Gerência de Dispositivos:
 [aqui](https://homepages.dcc.ufmg.br/~clodoveu/files/CEGEO/XX.%20SQL.pdf)
 [aqui](http://paginas.unisul.br/edson.thizon/PDF/aula2_algebra_calculo.pdf)
 
+* Compiladores:
+[aqui](http://www.unimep.br/~anbelgamo/compiladores/Compiladores%20-%20Introdu%E7%E3o.pdf)
+
 ## Bibliografia
 
 Fundamentos da Ciência da Computação, 2ª edição. Behrouz Forouzan e Firouz Mosharraf. Cengage Learning. 2011.
