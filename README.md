@@ -97,6 +97,7 @@ Gerência de Dispositivos:
 [aqui](http://wiki.icmc.usp.br/images/a/a3/SCC205Cap4.pdf)
 
 ## Tecnologia da computação
+### Banco de dados
 * SQL:
 [aqui](http://aserlorenzo.com/manSQL/Oracle/toc.htm)
 [aqui](http://www.inf.ufsc.br/~mario.dantas/cap4texto.pdf)
@@ -104,8 +105,13 @@ Gerência de Dispositivos:
 [aqui](https://homepages.dcc.ufmg.br/~clodoveu/files/CEGEO/XX.%20SQL.pdf)
 [aqui](http://paginas.unisul.br/edson.thizon/PDF/aula2_algebra_calculo.pdf)
 
-* Compiladores:
+### Compiladores
 [aqui](http://www.unimep.br/~anbelgamo/compiladores/Compiladores%20-%20Introdu%E7%E3o.pdf)
+[aqui](http://www.inf.ufsc.br/~olinto.furtado/ine5622-cap7-p1-121.pdf)
+
+### Sistemas distribuidos
+[aqui](https://edisciplinas.usp.br/pluginfile.php/3314811/mod_resource/content/1/aula-7.pdf)
+[aqui](http://disciplinas.ist.utl.pt/leic-sod/2010-2011/teoricas_tagus/7%20-%20Transaccoes%202011%20v2.pdf)
 
 ## Bibliografia
 
