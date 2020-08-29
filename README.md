@@ -2,6 +2,10 @@
 
 Este repositório tem como objetivo agrupar links direcionados a conteúdos exigidos na prova [POSCOMP](https://www.sbc.org.br/home/educacao/poscomp). Outro repositório também bastante interessante e mais abrangente sobre a área da ciência da computação pode ser encontrado [aqui](https://github.com/emanoelvianna/lista-interessante).
 
+## Matemática 
+
+[Fundamentos de Matemática](https://doraci.com.br/?page=./downloads/page_12#c1)
+
 ## Fundamentos
 
 ### Paradigmas de Programação:
