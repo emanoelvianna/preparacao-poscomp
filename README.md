@@ -71,7 +71,7 @@ Este repositório tem como objetivo agrupar links direcionados a conteúdos exig
 [aqui](http://wiki.icmc.usp.br/images/b/ba/Alg2_10.SistemasdeArquivos.pdf)
 [aqui](https://docente.ifrn.edu.br/tadeuferreira/disciplinas/2015.2/sistemas-operacionais/Aula20.pdf)
 [aqui](http://www.inf.ufrgs.br/~asc/sisop/pdf/aula14.pdf)
-Gerência de Dispositivos:
+- Gerência de Dispositivos:
 [aqui](https://www.ime.usp.br/~adao/AGD.pdf)
 [aqui](https://www.inf.pucrs.br/~emoreno/undergraduate/CC/sisop/class_files/Aula03)
 
