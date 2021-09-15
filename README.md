@@ -110,8 +110,9 @@ Gerência de Dispositivos:
 [aqui](http://paginas.unisul.br/edson.thizon/PDF/aula2_algebra_calculo.pdf)
 
 ### Compiladores
-[aqui](http://www.unimep.br/~anbelgamo/compiladores/Compiladores%20-%20Introdu%E7%E3o.pdf)
-[aqui](http://www.inf.ufsc.br/~olinto.furtado/ine5622-cap7-p1-121.pdf)
+[Conceitos Básicos](http://www.unimep.br/~anbelgamo/compiladores/Compiladores%20-%20Introdu%E7%E3o.pdf)
+
+[Geração de códigos](http://www.inf.ufsc.br/~olinto.furtado/ine5622-cap7-p1-121.pdf)
 
 ### Sistemas distribuidos
 [aqui](https://edisciplinas.usp.br/pluginfile.php/3314811/mod_resource/content/1/aula-7.pdf)
